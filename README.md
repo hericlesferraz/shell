@@ -4,7 +4,7 @@ This project aims to create a mini shell in c language, for a work in a discipli
 If you want to know in a little more detail about the project, consult the document made for the discipline in:
 
 ```
-  https://github.com/hericlesferraz/shell/Documentacao/
+  https://github.com/hericlesferraz/shell/documents/
 ``` 
 
 
