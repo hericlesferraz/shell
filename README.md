@@ -4,9 +4,8 @@ This project aims to create a mini shell in c language, for a work in a discipli
 If you want to know in a little more detail about the project, consult the document made for the discipline in:
 
 ```
-  https://github.com/hericlesferraz/shell/documents/
+  https://github.com/hericlesferraz/shell/blob/main/documents/Shell%20Linux%20-%20Sistemas%20Operacionais.pdf
 ``` 
-
 
 An example of the execution of some functionalities is demonstrated below
 
